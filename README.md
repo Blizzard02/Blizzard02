@@ -25,4 +25,4 @@ I'm Jenny
 ## 📚 Learning
 - [operating-systems-c-labs](https://github.com/Blizzard02/operating-systems-c-labs) — OS labs in C: processes, signals, threads, mutexes/semaphores, sockets, shell scripting
 - [mips-assembly-labs](https://github.com/Blizzard02/mips-assembly-labs) — MIPS assembly notes and exercises: arithmetic, branching, and jumps
-- [FuzzyWQ-sandbox](https://github.com/Blizzard02/FuzzyWQ-sandbox) — Mamdani fuzzy inference sandbox built as the software component of a university OSP submission
+
