@@ -10,7 +10,6 @@
 
 ## 🌐 Web
 - [ceremonio-demo-flask-app](https://github.com/Blizzard02/ceremonio-demo-flask-app) — original Flask prototype of Ceremonio, now a React/Next.js product
-- [ng-component-showcase](https://github.com/Blizzard02/ng-component-showcase) — hand-built Angular + TypeScript component library, presented as an interactive datasheet
 
 ## 🎮 Gaming
 - [PopEpoch_Hall_Of_Honor](https://github.com/Blizzard02/PopEpoch_Hall_Of_Honor) — Pop Epoch guild tool: reads Hall of Honor screenshots in the browser to track members' titles in Google Sheets, with event-planning tools for leaders (Google Apps Script)
@@ -18,6 +17,7 @@
 ## 🖼️ Showcases
 - [ceremonio-showcase](https://github.com/Blizzard02/ceremonio-showcase) — trilingual event-planning PWA (full source private, company project)
 - [trailshare-app-showcase](https://github.com/Blizzard02/trailshare-app-showcase) — GPS trail-recording & sharing Android app (full source private)
+- [ng-component-showcase](https://github.com/Blizzard02/ng-component-showcase) — hand-built Angular + TypeScript component library, presented as an interactive datasheet
 
 ## 📱 Mobile
 - [android-tictactoe](https://github.com/Blizzard02/android-tictactoe) — 2-player Tic Tac Toe (Java, Gradle) with score tracking
